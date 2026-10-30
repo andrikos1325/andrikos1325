@@ -7,6 +7,7 @@ At **Localhaven** I run new versions of Home Assistant, n8n and other self-hoste
 - **[Update Watch](https://localhavenstore.github.io/update-watch/?utm_source=github&utm_campaign=profile-readme)** - free update verdicts
 - **[Home Assistant 2026.10: "Config flow could not be loaded: 500"](https://localhavenstore.github.io/guides/home-assistant-2026-10-config-flow-could-not-be-loaded-500.html?utm_source=github&utm_campaign=profile-readme)** - how to find the cause in the log
 - **[Shop](https://localhavenstore.gumroad.com/?utm_source=github&utm_campaign=profile-readme)** - kits and tools for Home Assistant, n8n and the homelab
+- **Fixes merged into other projects** - [ha-omada #169](https://github.com/zachcheatham/ha-omada/pull/169) and [Hubspace #273](https://github.com/jdeath/Hubspace-Homeassistant/pull/273), two Home Assistant integrations
 
 Answers I post are tested on a throwaway machine; I say what was not tested.
 
